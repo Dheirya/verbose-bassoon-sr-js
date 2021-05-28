@@ -1,1 +1,1 @@
-Static Cache Files For Social Rumbles, JS Minified Files.
+Static Cache Files For Social Rumbles Website, JS Minified Files.
